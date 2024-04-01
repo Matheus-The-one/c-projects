@@ -17,7 +17,7 @@ int main() {
   cout<<"before swap value of a:"<<a<<endl;
   cout<<"before swap value of b:"<<b<<endl;
   swap(a,b);
-  cout<<a <<endl;
-  cout<<b<<endl;
+  cout<<"a:"<<a <<endl;
+  cout<<"b:"<<b<<endl;
  return 0;
 }
