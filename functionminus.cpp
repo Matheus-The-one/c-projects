@@ -10,7 +10,7 @@ float absolute1(float var){
 int absolute(int var){
     if(var<0)
         var=-var;
-
+    cout<<"executed form int"<<endl;
     return var;
 }
 
